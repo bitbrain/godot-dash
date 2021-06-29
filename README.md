@@ -35,11 +35,11 @@
     * [Download Ubuntu Regular and Bold](https://fonts.google.com/specimen/Ubuntu) (.ttf) and move it into a folder of your choosing. This will be the Interface font for Godot.
     * [Download Cascadia Code font](https://github.com/microsoft/cascadia-code/releases) and move it into a folder of your choosing. This font will be the code editor font.
 
-3. git clone https://github.com/bitbrain/godot-dash
+3. `git clone https://github.com/bitbrain/godot-dash`
 
-4. cd godot-dash
+4. `cd godot-dash`
 
-5. cp editor_settings-3.tres $HOME/.config/godot
+5. `cp editor_settings-3.tres $HOME/.config/godot`
 
 # Contribution
 
