@@ -11,6 +11,7 @@
 
 # How to install
 
+## Windows
 1. Download the latest version of this project [here](https://github.com/bitbrain/godot-dash/archive/refs/heads/main.zip) and unzip it.
 2. [Download Ubuntu Regular and Bold](https://fonts.google.com/specimen/Ubuntu) (.ttf) and move it into a folder of your choosing. This will be the Interface font for Godot.
 3. [Download Cascadia Code font](https://github.com/microsoft/cascadia-code/releases) and move it into a folder of your choosing. This font will be the code editor font.
@@ -23,6 +24,22 @@
     interface/editor/main_font_bold = "ABSOLUTE_PATH_TO_ YOUR_FONT/Ubuntu-B.ttf"
     interface/editor/code_font = "ABSOLUTE_PATH_TO_ YOUR_FONT/CascadiaMono.ttf"
     ```
+
+## Linux
+
+1. Open terminal.
+
+2. Install fonts with a package manager, **or**:
+
+2. Download the fonts and copy them to ~/.local/share/fonts/
+    * [Download Ubuntu Regular and Bold](https://fonts.google.com/specimen/Ubuntu) (.ttf) and move it into a folder of your choosing. This will be the Interface font for Godot.
+    * [Download Cascadia Code font](https://github.com/microsoft/cascadia-code/releases) and move it into a folder of your choosing. This font will be the code editor font.
+
+3. git clone https://github.com/bitbrain/godot-dash
+
+4. cd godot-dash
+
+5. cp editor_settings-3.tres $HOME/.config/godot
 
 # Contribution
 
