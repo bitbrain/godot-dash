@@ -53,7 +53,7 @@
 4. Head into your installation folder of Godot Engine (for example `C:\Program Files (x86)\Steam\steamapps\common\Godot Engine`) and edit the file `editor_data/editor_settings-4.tres` 
 5. Copy the contents of editor_settings-4.tres provided in the previously downloaded folder into that file
    * Alternatively you can copy the settings from the file editor_settings-4-themeonly.tres. This file only has settings that touch theming related properties and is intended for existing installations of Godot where other properties might be already changed. Place these settings under the \[resource\] group
-6. Head into your editor_settings-3.tres file and modify the following lines to match the absolute paths of your previously downloaded fonts:
+6. Head into your editor_settings-4.tres file and modify the following lines to match the absolute paths of your previously downloaded fonts:
     ```
     interface/editor/main_font = "ABSOLUTE_PATH_TO_ YOUR_FONT/Ubuntu-R.ttf"
     interface/editor/main_font_bold = "ABSOLUTE_PATH_TO_ YOUR_FONT/Ubuntu-B.ttf"
