@@ -1,3 +1,5 @@
+> PROJECT HAS BEEN MOVED TO `tangled.org`: https://tangled.org/bitbra.in/godot-dash
+
 ![logo](logo.png)
 
 :waxing_crescent_moon: Dark vibrant theme for [Godot Engine](https://godotengine.org) used by [bitbrain in his devlogs](https://youtube.com/bitbraindev).
